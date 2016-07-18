@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 3: Layouts</title>
+
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+body {
+  padding-top: 50px;
+  background-color: black;
+}
+
+.starter-template {
+  padding: 45px 5px;
+  text-align: center;
+  background-color:#ccc;
+}
+
+.box {
+  display: inline-block;
+  width: 220px;
+  height: 120px;
+  margin: 1em;
+  background-color:#ccc;
+}
+
+.img-responsive1 {
+  display: inline-block;
+  width: 500px;
+  height: 320px;
+  background-color:#ccc;
+  margin-right:510px;
+  margin-top:-45px;
+}
+
+.box-sub-nav1{
+ background-color:#f4f4f4;
+}
+
+.container-controll {
+	margin-left: 6%;
+}
+
+footer {background-color:#eee;
+padding-top: 15px;
+ padding-bottom: 15px;
+ background-color: #f5f5f5;
+ background-color: rgba(86,61,124,.15);
+ border: 1px solid #ddd;
+ border: 1px solid rgba(86,61,124,.2);
+ text-align: center;
+
+}
+.clearfix { overflow:auto; float:right; bbackground-color:#eee; margin-right:16%; margin-top:8px;}
+
+</style>
+</head>
+<body>
+<section>
+		<div class="box-sub-nav1">CHOTA
+			</div>			
+						
+		</section>
+     
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Latina BigAss For Me</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav ">
+            <li class="active"><a href="#">Videos</a></li>
+            <li><a href="#about">Category</a></li>
+            <li><a href="#contact">Cam Sex</a></li>
+            <li><a href="#contact">Fuck now</a></li>
+	    <li><a href="#contact">Premium Free</a></li>
+	    <li><a href="#contact">Blog</a></li>
+	    <li><a href="#contact">Contact</a></li>
+          </ul>
+ <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Search" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Search</button>
+          </form>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+<div class="container">
+	<div class="container-controll">
+		<section class="title"><h2>Porn Videos Trending Now</h2></section>
+		<section>
+			<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+			<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+			
+			<div class="clearfix"><img class="img-responsive" src="http://pt-br.learnlayout.com/images/ilta.png">
+			</div>			
+			<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+			<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+			
+		</section>
+		
+		
+
+
+<section class="title"><h2>Porn Videos Trending Now</h2></section>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+
+<section class="title"><h2>Tags </h2></section>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+
+
+<section class="title"><h2>Porn Stars Video</h2></section>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+
+<section class="title"><h2>Premium Hd</h2></section>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+
+    </div><!-- /.container -->
+<footer>
+<div class="box">itae dui eget tellus gravida venenatis. Integer</div>
+          <p>&copy; 2015 Company, Inc.</p> 
+    </footer>
+
+</div><!-- /.container controll-->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
